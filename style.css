@@ -135,7 +135,8 @@ header h1 i {
     border: none;
     color: #393939;
     font-size: x-large;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+    border-radius: 3px;
 }
 
 .singel-inner p {
@@ -153,7 +154,8 @@ header h1 i {
     border: none;
     color: #393939;
     font-size: x-large;
-    margin-bottom: 20px;
+    margin-bottom: 20px; 
+    border-radius: 3px;
 }
 
 .abt-inn {
@@ -251,7 +253,8 @@ header h1 i {
     float: left;
     margin: 0 0 0 40px;
     color: #393939;
-    font-size: medium;
+    font-size: medium; 
+    border-radius: 3px;
 }
 
 .ing-inner h4 {
