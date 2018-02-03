@@ -373,7 +373,19 @@ header h1 i {
 @media(max-width:499px) {
     .main-table {
         width: 100%;
+    } 
+    
+    .navbar select{
+    border: 1px solid #d6d4d4;
+    height: 50px;
+    line-height: 50px;
+    width: 170px;
+    border-radius: 5px;
+    font-size: medium;
+    color: #000;
+    padding: 0 15px;
     }
+    
     .abt-inn select {
         display: table;
         margin: 5px auto 0;
